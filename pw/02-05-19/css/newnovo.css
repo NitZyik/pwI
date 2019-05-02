@@ -1,0 +1,103 @@
+.blk1{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.blk2{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.blk3{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.blk4{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.nlk1{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.nlk2{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.nlk3{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.nlk4{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+
+.alk1{
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.alk2{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.alk3{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.alk4{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
