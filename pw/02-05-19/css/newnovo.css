@@ -1,6 +1,6 @@
 .blk1{
 	position: absolute;
-	left: 0px;
+	left: 100px;
 	top: 0px;
 	height: 100px;
 	width: 100px;
@@ -94,6 +94,38 @@
 	background-color: #000000;
 }
 .alk4{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.flk1{
+	position: absolute;
+	left: 0px;
+	top: 100px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.flk2{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.flk3{
+	position: absolute;
+	left: 200px;
+	top: 0px;
+	height: 100px;
+	width: 100px;
+	background-color: #000000;
+}
+.flk4{
 	position: absolute;
 	left: 200px;
 	top: 0px;
